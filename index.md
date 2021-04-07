@@ -48,7 +48,7 @@ Water level and Current forecast map.
 <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="600"> </a>
 
 
-<h3> Developed by </h3>
+<h3> Developed by</h3>
 
 <p> Ahsan Habib, PhD Candidate </p>
 
