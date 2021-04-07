@@ -22,7 +22,7 @@
   
 <a href="google earth.JPG"> <img src="google earth.JPG" width="610">  </a> 
  
-<h3> Parameters Predicted  </h3>
+<h3> Parameters Predicted </h3>
 <ul>
     <li> Salinity</li>
     <li> Temperature </li>
