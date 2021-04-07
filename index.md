@@ -47,13 +47,13 @@ Water level and Current forecast map.
 
 <p> </p>
 Significant Wave height timeseries forecast at Sebastian Inlet (left) and LOBO station (right).
-<a href="sig_waveheight_inlet.jpg"> <img src="sig_waveheight_inlet.jpg" width="300"> </a>
-<a href="sig_waveheight_lobo.jpg"> <img src="sig_waveheight_lobo.jpg" width="300"> </a>
+<a href="sig_waveheight_inlet.jpg"> <img src="sig_waveheight_inlet.jpg" width="300" align="left"> </a>
+<a href="sig_waveheight_lobo.jpg"> <img src="sig_waveheight_lobo.jpg" width="300" align="justify"> </a>
 
 <p> </p>
 Timeseries forecast of peak period at Sebastian Inlet (left) and LOBO station (right).
-<a href="peak_period_inlet.jpg.jpg"> <img src="peak_period_inlet.jpg.jpg" width="300"> </a>
-<a href="peak_period_lobo.jpg"> <img src="peak_period_lobo.jpg"  width="300"> </a> 
+<a href="peak_period_inlet.jpg.jpg"> <img src="peak_period_inlet.jpg.jpg" width="300" align="left"> </a>
+<a href="peak_period_lobo.jpg"> <img src="peak_period_lobo.jpg"  width="300" align="justify"> </a> 
  
  
 <h3> Developed by</h3>
