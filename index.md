@@ -49,7 +49,7 @@ Water level and Current forecast map.
 
 <h3> Developed by </h3>
 
-<p>Ahsan Habib, PhD Candidate
+<p> Ahsan Habib, PhD Candidate </p>
 
 <a href="https://www.fit.edu/faculty-profiles/8/gary-zarillo/">Dr. Gary Zarillo, PhD </a>
 
