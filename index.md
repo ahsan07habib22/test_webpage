@@ -55,7 +55,8 @@ Timeseries forecast of peak period at Sebastian Inlet(left) and LOBO station(rig
 <a href="peak_period_inlet.jpg"> <img src="peak_period_inlet.jpg" width="300" align="left"> </a>
 <a href="peak_period_lobo.jpg"> <img src="peak_period_lobo.jpg"  width="300" align="justify">  </a> 
  
-<p>   </p>
+<p>  </p>
+
 <h3> Developed by</h3>
 
 <p> Ahsan Habib, PhD Candidate </p>
@@ -65,7 +66,6 @@ Timeseries forecast of peak period at Sebastian Inlet(left) and LOBO station(rig
 <p> Dept of Ocean Engineering and Marine Sciences </p>
 
 <p> <img src="Primary_horiz_tagline_crimson.png" width="400" align="justify">  </p>
-
 
 </body>
 </html>
