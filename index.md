@@ -54,19 +54,20 @@ Model results for waterlevel timeseries were compared with data from buoy data n
 </div>
 
 <div class="column left">
-Water level timeseries forecast at Inlet station for 3 days       
-<a href="waterlevel_sebastian_inlet.jpg"> <img src="waterlevel_sebastian_inlet.jpg" width="1000" align="justify"> </a>
+<a href="waterlevel_sebastian_inlet.jpg"> <img src="waterlevel_sebastian_inlet.jpg" align="left"> </a>
 </div>
 
 <div class="column right">
 Water level timeseries forecast at North Jetty for 3 days.       
-<a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" width="600" align="justify"> </a>
+<a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" align="left"> </a>
 </div>
 
 <div class="column">
 Water level timeseries forecast at LOBO station for 3 days.       
 <a href="waterlevel_lobo.jpg"> <img align="left" src="waterlevel_lobo.jpg" height="300"> </a>
+</div>
 
+<div class="column">
 Water level and Current forecast map.
 <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="imgwidth"  align="center"> </a>
 </div>
