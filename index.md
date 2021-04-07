@@ -45,7 +45,7 @@ Water level timeseries forecast at LOBO station for 3 days.
 
 <p> </p>
 Water level and Current forecast map.
-<a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="imgwidth"  align="left"> </a>
+<a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="imgwidth"  align="justify"> </a>
 
 
 <h3> Developed by </h3>
