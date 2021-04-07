@@ -64,11 +64,11 @@ Water level timeseries forecast at North Jetty for 3 days.
 </div>
 
 <div class="column">
+Water level timeseries forecast at LOBO station for 3 days.       
 <a href="waterlevel_lobo.jpg"> <img align="left" src="waterlevel_lobo.jpg" height="300"> </a>
-*Water level timeseries forecast at LOBO station for 3 days.*
 
+Water level and Current forecast map.
 <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="imgwidth"  align="center"> </a>
-*Water level and Current forecast map.*
 </div>
 
 <div class="column">
