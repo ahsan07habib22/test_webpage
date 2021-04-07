@@ -22,6 +22,7 @@
 <h1> Real Time Forecast </h1>
 <p>       
 3 days of forecast timeseries data has been provided here for LOBO, Sebastian Inlet and North Jetty stations.
+  
 <a href="google earth.JPG"> <img src="google earth.JPG"> </a> </p>
  
 <h3> Parameters Predicted </h3>
