@@ -5,7 +5,7 @@
        
 <p>A numerical model has been developed using <a href="https://oss.deltares.nl/web/delft3d">Delft3D</a>, 3-dimensional modeling suite for hydrodynamics, sediment transport and morphology and water quality for estuarine and coastal environments. A curvilinear orthogonal grid was created with grid size ranging from 14 m in inlet to 475 m in the coastal area and with 5 sigma layers.  The grid represents coastline from Wabasso Beach to Indialantic Beach. </p>
 
-<a href="Sebastian Inlet Full Grid.jpg"> <img src="Sebastian Inlet Full Grid.jpg"> </a>
+<a href="Sebastian Inlet Full Grid.jpg"> <img src="Sebastian Inlet Full Grid.jpg" width="300" align="justify"> </a>
 <a href="Zoomed Grid Sebastian Inlet.jpg"> <img src="Zoomed Grid Sebastian Inlet.jpg"> </a>
 
 
@@ -53,7 +53,7 @@ Water level and Current forecast map.
 
 <p> <a href="https://www.fit.edu/faculty-profiles/8/gary-zarillo/">Dr. Gary Zarillo, PhD </a> </p>
 
-<p>Dept of Ocean Engineering and Marine Sciences </p>
+<p> Dept of Ocean Engineering and Marine Sciences </p>
 
 <img src="Primary_horiz_tagline_crimson.png" width="400" align="justify">  
 
