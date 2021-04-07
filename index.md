@@ -35,7 +35,7 @@
     <li> Peak Period</li>
   </ul>
 
-
+Water level timeseries forecast at Sebastian Inlet for 3 days.       
 <a href="waterlevel_sebastian_inlet.jpg"> <img src="waterlevel_sebastian_inlet.jpg" align="left"> </a>
 
 Water level timeseries forecast at North Jetty for 3 days.       
