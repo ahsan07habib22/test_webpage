@@ -52,7 +52,7 @@ Sig. wave height timeseries forecast at Sebastian Inlet(left) and LOBO station(r
 
 <p> </p>
 Timeseries forecast of peak period at Sebastian Inlet(left) and LOBO station(right).
-<a href="peak_period_inlet.jpg.jpg"> <img src="peak_period_inlet.jpg.jpg" width="300" align="left"> </a>
+<a href="peak_period_inlet.jpg"> <img src="peak_period_inlet.jpg" width="300" align="left"> </a>
 <a href="peak_period_lobo.jpg"> <img src="peak_period_lobo.jpg"  width="300" align="justify">  </a> 
  
 <p>  </p>
