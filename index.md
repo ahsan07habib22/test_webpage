@@ -51,9 +51,9 @@ Water level and Current forecast map.
 
 <p> Ahsan Habib, PhD Candidate </p>
 
-<a href="https://www.fit.edu/faculty-profiles/8/gary-zarillo/">Dr. Gary Zarillo, PhD </a>
+<p> <a href="https://www.fit.edu/faculty-profiles/8/gary-zarillo/">Dr. Gary Zarillo, PhD </a> </p>
 
-Dept of Ocean Engineering and Marine Sciences
+<p>Dept of Ocean Engineering and Marine Sciences </p>
 
 <img src="Primary_horiz_tagline_crimson.png" width="400" align="justify">  
 
