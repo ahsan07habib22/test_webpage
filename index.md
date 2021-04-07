@@ -5,7 +5,7 @@
        
 <p>A numerical model has been developed using <a href="https://oss.deltares.nl/web/delft3d">Delft3D</a>, 3-dimensional modeling suite for hydrodynamics, sediment transport and morphology and water quality for estuarine and coastal environments. A curvilinear orthogonal grid was created with grid size ranging from 14 m in inlet to 475 m in the coastal area and with 5 sigma layers.  The grid represents coastline from Wabasso Beach to Indialantic Beach. </p>
 
-<a href="Sebastian Inlet Full Grid.jpg"> <img src="Sebastian Inlet Full Grid.jpg" width="490" align="justify"> </a>
+<a href="Sebastian Inlet Full Grid.jpg"> <img src="Sebastian Inlet Full Grid.jpg" width="450" align="justify"> </a>
 <a href="Zoomed Grid Sebastian Inlet.jpg"> <img src="Zoomed Grid Sebastian Inlet.jpg" width="490" align="justify"> </a>
 
 
@@ -42,7 +42,7 @@ Water level timeseries forecast at North Jetty for 3 days.
 <a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" width="450" align="left"> </a>
 
 Water level timeseries forecast at LOBO station for 3 days.       
-<a href="waterlevel_lobo.jpg"> <img align="left" src="waterlevel_lobo.jpg" height="306"> </a>
+<a href="waterlevel_lobo.jpg"> <img align="left" src="waterlevel_lobo.jpg" height="490"> </a>
 
 Water level and Current forecast map.
 <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="imgwidth"  align="center"> </a>
