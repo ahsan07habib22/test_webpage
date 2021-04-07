@@ -56,7 +56,7 @@ Water level and Current forecast map.
 Dept of Ocean Engineering and Marine Sciences
 
 <img src="Primary_horiz_tagline_crimson.png" width="400" align="justify">  
-</p>
+
 
 </body>
 </html>
