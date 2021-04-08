@@ -18,6 +18,7 @@
 <a href="Sebastian Inlet Water Level Timeseries.jpg"> <img src="Sebastian Inlet Water Level Timeseries.jpg" width="350"  align="left"></a>   
 <a href="waterlevel_corelation.jpg"> <img src="waterlevel_corelation.jpg" width="250" height="190" align="justify"> </a>   
 
+<p> </p>
 <div style="color:green" align="center">Temperature(left) and Sig. wave height(right) timeseries comparison respectively at LOBO and Sebastian Inlet stations. </div>       
 <a href="temperature_lobo.jpg"> <img src="temperature_lobo.jpg" width="300" height="225" align="left"> </a>   
 <a href="sig_waveheight_buoy_comparison.jpg"> <img src="sig_waveheight_buoy_comparison.jpg" width="300" align="justify"> </a>   
