@@ -44,7 +44,7 @@ Water level and Current forecast map.
 <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="610"> </a>
 
 <p> </p>
-<a align="center">Sig. wave height timeseries forecast at Sebastian Inlet(left) and LOBO station(right).</a>
+<div align="center">Sig. wave height timeseries forecast at Sebastian Inlet(left) and LOBO station(right).</div>
 <a href="sig_waveheight_inlet.jpg"> <img src="sig_waveheight_inlet.jpg" width="300" align="left"> </a>
 <a href="sig_waveheight_lobo.jpg"> <img src="sig_waveheight_lobo.jpg" width="300" align="justify"> </a>
 
