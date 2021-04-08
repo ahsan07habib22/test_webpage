@@ -19,7 +19,7 @@
 <a href="waterlevel_corelation.jpg"> <img src="waterlevel_corelation.jpg" width="250" height="190" align="justify"> </a>   
 
 <div style="color:green" align="center">Water level timeseries forecast at LOBO station for 3 days. </div>       
-<a href="temperature_lobo.jpg"> <img src="temperature_lobo.jpg" width="300" align="left"> </a>   
+<a href="temperature_lobo.jpg"> <img src="temperature_lobo.jpg" width="300" height="200" align="left"> </a>   
 <a href="sig_waveheight_buoy_comparison.jpg"> <img src="sig_waveheight_buoy_comparison.jpg" width="300" align="justify"> </a>   
 
 <h1> Real Time Forecast  </h1>
