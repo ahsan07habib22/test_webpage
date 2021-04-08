@@ -36,7 +36,7 @@ Water level timeseries forecast at Sebastian Inlet(left) and North Jetty(right) 
 <a href="waterlevel_sebastian_inlet.jpg"> <img src="waterlevel_sebastian_inlet.jpg" width="300" align="left"> </a><a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" width="300" align="justify"> </a>
 
 <p> </p>
-Water level timeseries forecast at LOBO station for 3 days.       
+<p align="center">Water level timeseries forecast at LOBO station for 3 days.</p>       
 <a href="waterlevel_lobo.jpg"> <img src="waterlevel_lobo.jpg" width="610"> </a> 
 
 <p> </p>
