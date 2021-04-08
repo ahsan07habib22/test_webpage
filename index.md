@@ -36,20 +36,20 @@
 <a href="waterlevel_sebastian_inlet.jpg"> <img src="waterlevel_sebastian_inlet.jpg" width="300" align="left"> </a><a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" width="300" align="justify"> </a>
 
 <p> </p>
-<div style="color:blue" align="center">Water level timeseries forecast at LOBO station for 3 days. </div>       
+<div style="color:green" align="center">Water level timeseries forecast at LOBO station for 3 days. </div>       
 <a href="waterlevel_lobo.jpg"> <img src="waterlevel_lobo.jpg" width="610"> </a> 
 
 <p> </p>
-<div style="color:blue" align="center">Water level and Current forecast map.</div>
+<div style="color:green" align="center">Water level and Current forecast map.</div>
 <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="610"> </a>
 
 <p> </p>
-<div align="center">Sig. wave height timeseries forecast at Sebastian Inlet(left) and LOBO station(right).</div>
+<div style="color:green" align="center">Sig. wave height timeseries forecast at Sebastian Inlet(left) and LOBO station(right).</div>
 <a href="sig_waveheight_inlet.jpg"> <img src="sig_waveheight_inlet.jpg" width="300" align="left"> </a>
 <a href="sig_waveheight_lobo.jpg"> <img src="sig_waveheight_lobo.jpg" width="300" align="justify"> </a>
 
 <p> </p>
-<div align="center">Timeseries forecast of peak period at Sebastian Inlet(left) and LOBO station(right).</div>
+<div style="color:green" align="center">Timeseries forecast of peak period at Sebastian Inlet(left) and LOBO station(right).</div>
 <a href="peak_period_inlet.jpg"> <img src="peak_period_inlet.jpg" width="300" align="left"> </a>
 <a href="peak_period_lobo.jpg"> <img src="peak_period_lobo.jpg"  width="300" align="justify">  </a> 
  
