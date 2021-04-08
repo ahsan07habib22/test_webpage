@@ -17,11 +17,9 @@
 <a href="waterlevel_corelation.jpg"> <img src="waterlevel_corelation.jpg" width="250" height="190" align="justify"> </a>   
 
 <h1> Real Time Forecast </h1>
-<p>3 days of forecast timeseries data has been provided here for LOBO, Sebastian Inlet and North Jetty stations.</p> 
-<a href="google earth.JPG"> <img src="google earth.JPG" width="610"> </a> 
- 
 <h3> Parameters Predicted </h3>
 <ul>
+    <li>Water level </li>
     <li> Salinity</li>
     <li> Temperature </li>
     <li> Currents </li>
@@ -31,8 +29,10 @@
     <li> Peak Period</li>
 </ul>
 
-Water level timeseries forecast at Sebastian Inlet(left) and North Jetty(right) for 3 days. 
+<p>3 days of forecast timeseries data has been provided here for LOBO, Sebastian Inlet and North Jetty stations.</p> 
+<a href="google earth.JPG"> <img src="google earth.JPG" width="610"> </a> 
 
+Water level timeseries forecast at Sebastian Inlet(left) and North Jetty(right) for 3 days. 
 <a href="waterlevel_sebastian_inlet.jpg"> <img src="waterlevel_sebastian_inlet.jpg" width="300" align="left"> </a><a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" width="300" align="justify"> </a>
 
 <p> </p>
