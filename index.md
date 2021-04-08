@@ -29,10 +29,9 @@
     <li> Peak Period</li>
 </ul>
 
-3 days of forecast timeseries data has been provided here for LOBO, Sebastian Inlet and North Jetty stations.
 <a href="google earth.JPG"> <img src="google earth.JPG" width="610"> </a> 
 
-<p></p>
+<p> 3 days of forecast timeseries data has been provided here for LOBO, Sebastian Inlet and North Jetty stations. </p>
 <div align="center">Water level timeseries forecast at Sebastian Inlet(left) and North Jetty(right) for 3 days. </div>
 <a href="waterlevel_sebastian_inlet.jpg"> <img src="waterlevel_sebastian_inlet.jpg" width="300" align="left"> </a><a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" width="300" align="justify"> </a>
 
