@@ -5,6 +5,10 @@
 <p>A numerical model has been developed using <a href="https://oss.deltares.nl/web/delft3d">Delft3D</a>, 3-dimensional modeling suite for hydrodynamics, sediment transport and morphology and water quality for estuarine and coastal environments. A curvilinear orthogonal grid was created with grid size ranging from 14 m in inlet to 475 m in the coastal area and with 5 sigma layers.  The grid represents coastline from Wabasso Beach to Indialantic Beach.</p> 
 
 <div style="color:green" align="center">Left: Model grid (subsampled one per three grid lines). Right: Detailed grid for Sebastian Inlet area </div>       
+<a href="googleEarth1.JPG">  <img src="googleEarth1.JPG"  width="300" align="justify">  </a>
+<a href="googleEarth2.JPG"> <img src="googleEarth2.JPG" width="300" align="justify">  </a>
+
+<div style="color:green" align="center">Left: Model grid (subsampled one per three grid lines). Right: Detailed grid for Sebastian Inlet area </div>       
 <a href="Sebastian Inlet Full Grid.jpg">  <img src="Sebastian Inlet Full Grid.jpg"  width="300" align="justify">  </a>
 <a href="Zoomed Grid Sebastian Inlet.jpg"> <img src="Zoomed Grid Sebastian Inlet.jpg" width="300" align="justify">  </a>
 
