@@ -19,7 +19,7 @@
 <a href="waterlevel_corelation.jpg"> <img src="waterlevel_corelation.jpg" width="250" height="190" align="justify"> </a>   
 
 <p> </p>
-<div style="color:green" align="center">Temperature(left) and Sig. wave height(right) timeseries comparison respectively at LOBO and Sebastian Inlet stations. </div>       
+<div style="color:green" align="center">Temperature(left) and Sig. wave height(right) timeseries comparison respectively at LOBO and Sebastian Inlet stations </div>       
 <a href="temperature_lobo.jpg"> <img src="temperature_lobo.jpg" width="300" height="225" align="left"> </a>   
 <a href="sig_waveheight_buoy_comparison.jpg"> <img src="sig_waveheight_buoy_comparison.jpg" width="300" align="justify"> </a>   
 
@@ -38,7 +38,7 @@
 
 <a href="google earth.JPG"> <img src="google earth.JPG" width="610"> </a> 
 
-<p> 3 days of timeseries forecast data has been provided here for LOBO, Sebastian Inlet and North Jetty stations. </p>
+<p> 3 days of timeseries forecast data has been provided here for LOBO, Sebastian Inlet and North Jetty stations </p>
 
 <div style="color:green" align="center">Water level timeseries forecast at Sebastian Inlet(left) and North Jetty(right) for 3 days. </div>
 <a href="waterlevel_sebastian_inlet.jpg"><img src="waterlevel_sebastian_inlet.jpg" width="300" align="left"> </a><a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" width="300" align="justify"> </a>
