@@ -44,7 +44,7 @@ Water level timeseries forecast at LOBO station for 3 days.
 
 <p> </p>
 Water level and Current forecast map.
-<a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="610"> </a>
+<a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="610">  </a>
 
 <p> </p>
 Sig. wave height timeseries forecast at Sebastian Inlet(left) and LOBO station(right).
