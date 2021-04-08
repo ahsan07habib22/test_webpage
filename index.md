@@ -11,7 +11,7 @@ A numerical model has been developed using <a href="https://oss.deltares.nl/web/
 <p>The model is driven by water elevation time series that includes tides and lower frequency sea level oscillations, and meteorological forcing. The temperature, salinity and sea surface elevation along north, south and east open boundaries were derived from <a href="https://www.hycom.org/data/gomu0pt04/expt-90pt1m000">HYCOM and NCODA Gulf of Mexico 1/25° Analysis</a>. The meteorological forcing (relative humidity, air temperature, wind forcing, heatflux, evaporation and precipitation) was derived from <a href="https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/north-american-mesoscale-forecast-system-nam">North American Mesoscale Forecast system (NAM).</a> </p>
 
 <a href="Sal_tem_2018_east1a.jpg"> <img src="Sal_tem_2018_east1a.jpg" width="350"  align="left"> </a>   
-<a href="boundary node.jpg"> <img src="boundary node.jpg" width="250" height="260" align="justify"> </a>  
+<a href="boundary node.jpg"> <img src="boundary node.jpg" width="250" height="260" align="justify">  </a>  
 
 <h1>Model Validation </h1>
        
