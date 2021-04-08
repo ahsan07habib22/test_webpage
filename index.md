@@ -62,7 +62,7 @@
 <a href="peak_period_lobo.jpg"> <img src="peak_period_lobo.jpg"  width="300" align="justify">  </a> 
  
 <p>  </p>
-<h3> Developed by</h3>
+<h3> Developed by </h3>
 
 <p> Ahsan Habib, PhD Candidate </p>
 
