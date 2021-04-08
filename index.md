@@ -79,7 +79,7 @@
 
 <p> Dept of Ocean Engineering and Marine Sciences </p>
 
-<p> <img src="Primary_horiz_tagline_crimson.png" width="400" align="justify">  </p>
+<p> <img src="Primary_horiz_tagline_crimson.png" width="400" align="justify">   </p>
 
 </body>
 </html>
