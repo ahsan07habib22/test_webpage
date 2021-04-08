@@ -2,7 +2,7 @@
 <body>
               
 <h1> Model Setup </h1>
-<p>A numerical model has been developed using <a href="https://oss.deltares.nl/web/delft3d">Delft3D</a>, 3-dimensional modeling suite for hydrodynamics, sediment transport and morphology and water quality for estuarine and coastal environments. A curvilinear orthogonal grid was created with grid size ranging from 14 m in inlet to 475 m in the coastal area and with 5 sigma layers.  The grid represents coastline from Wabasso Beach to Indialantic Beach.</p> 
+<p>A numerical model has been developed using <a href="https://oss.deltares.nl/web/delft3d">Delft3D</a>, 3-dimensional modeling suite for hydrodynamics, sediment transport and morphology and water quality for estuarine and coastal environments. A curvilinear orthogonal grid was created with grid size ranging from 14 m in inlet to 475 m in the coastal area and with 5 sigma layers. The grid represents coastline from Wabasso Beach to Indialantic Beach. Wave model was set up using SWAN (Simulating Waves Nearshore) model suite integrated into Delft3D. Same flow grid and bathymetry were used for wave model setup. </p> 
 
 <div style="color:green" align="center">Left: Model domain (Red rectangular box). Right: Zoomed model domain in Sebastian Inlet.(Google Earth) </div>       
 <a href="googleEarth1.JPG">  <img src="googleEarth1.JPG"  width="300" align="justify">  </a>
@@ -14,7 +14,8 @@
 <a href="Zoomed Grid Sebastian Inlet.jpg"> <img src="Zoomed Grid Sebastian Inlet.jpg" width="300" align="justify">  </a>
 
 <h1> Offshore Boundary Conditions  </h1>
-<p>The model is driven by water elevation time series that includes tides and lower frequency sea level oscillations, and meteorological forcing. The temperature, salinity and sea surface elevation along north, south and east open boundaries were derived from <a href="https://www.hycom.org/data/gomu0pt04/expt-90pt1m000">HYCOM and NCODA Gulf of Mexico 1/25° Analysis</a>. The meteorological forcing (relative humidity, air temperature, wind forcing, heatflux, evaporation and precipitation) was derived from <a href="https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/north-american-mesoscale-forecast-system-nam">North American Mesoscale Forecast system (NAM).</a> </p>
+<p>The model is driven by water elevation time series that includes tides and lower frequency sea level oscillations, and meteorological forcing. The temperature, salinity and sea surface elevation along north, south and east open boundaries were derived from <a href="https://www.hycom.org/data/gomu0pt04/expt-90pt1m000">HYCOM and NCODA Gulf of Mexico 1/25° Analysis</a>. The meteorological forcing (relative humidity, air temperature, wind forcing, heatflux, evaporation and precipitation) was derived from <a href="https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/north-american-mesoscale-forecast-system-nam">North American Mesoscale Forecast system (NAM).</a> 
+Open boundary conditions for wave model have been derived from global wave model <a href="https://polar.ncep.noaa.gov/waves/ensemble/download.shtml?">WavewatchIII</a>. Significant wave height, peak period, wave direction and direction spreading data were derived from WavewatchIII. </p>
 
 <div style="color:green" align="center">Temperature and salinity profile at East1 bondary node </div>       
 <a href="Sal_tem_2018_east1a.jpg"> <img src="Sal_tem_2018_east1a.jpg" width="350"  align="left">  </a>   
