@@ -16,7 +16,7 @@ Dashboards</a>
 
 Model results for waterlevel timeseries were compared with data from buoy data near Sebastian Inlet. There is a good match between model results and buoy data for water level timeseries with small difference in amplitude but very good match between phases. Correlation comparison is well over 90%.Following figures show some comparison.
 
-<p align="center">
+<p align="left">
 <img src="Sebastian Inlet Water Level Timeseries.jpg" width="1250">    
 </p>
  
