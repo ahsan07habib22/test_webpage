@@ -20,7 +20,9 @@ Model results for waterlevel timeseries were compared with data from buoy data n
 # Real Time Forecast
 
 3 days of forecast timeseries data has been provided here for LOBO, Sebastian Inlet and North Jetty stations.
-<img src="google earth.JPG">  
+<img src="google earth.JPG">
+
+<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/ba3e86f3-36b1-4089-8d6f-1208d1dcef42/page/FNasC" frameborder="0" style="border:0" allowfullscreen></iframe>
  
 ### Parameters Predicted
 
